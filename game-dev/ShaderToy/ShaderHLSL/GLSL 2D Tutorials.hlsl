@@ -46,7 +46,7 @@ Please fix my coding errors and grammar errors. :-)
 */
 
 // choose the tutorial by changing the number and compiling the shader again
-#define TUTORIAL 16
+#define TUTORIAL 20
 
 /* TUTORIAL LIST
  1 VOID. BLANK SCREEN.
